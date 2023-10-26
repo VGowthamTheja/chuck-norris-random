@@ -1,0 +1,30 @@
+{
+  "name": "chuck-norris-random",
+  "version": "1.0.0",
+  "description": "This is a package generates random jokes of chuck-norris",
+  "main": "index.js",
+  "bin": {
+    "get-joke": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VGowthamTheja/chuck-norris-random.git"
+  },
+  "keywords": [
+    "javascript",
+    "chuck",
+    "chuck-norris",
+    "norris",
+    "joke",
+    "entertainment"
+  ],
+  "author": "VGowthamTheja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VGowthamTheja/chuck-norris-random/issues"
+  },
+  "homepage": "https://github.com/VGowthamTheja/chuck-norris-random#readme"
+}
